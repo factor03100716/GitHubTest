@@ -1,3 +1,3 @@
 # GitHubTest
-This is a Big
-=============
+----------------------------------------
+This project is github study project
