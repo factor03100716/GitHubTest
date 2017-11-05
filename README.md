@@ -1,3 +1,3 @@
 # GitHubTest
 
-##This project is github study project
+## This project is github study project
